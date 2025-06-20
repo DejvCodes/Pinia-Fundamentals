@@ -1,5 +1,5 @@
 ## Pinia Fundamentals - Vue Mastery
-• What is Pinia
+What is Pinia
 • Creating our first store
 • Mutating state with Actions
 • Reactive Properties in Pinia
